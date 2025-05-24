@@ -4,4 +4,4 @@ Implementation of paper Teamwork Makes the Defense Work: Defense Resource Alloca
 Code coming soon
 
 # Paper
-You can read the full paper at: git@github.com:sefcom/SWING.git
+You can read the full paper at: https://sliu274.github.io/papars/swing_aamas.pdf
